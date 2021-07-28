@@ -1,0 +1,15 @@
+.list-description {
+  list-style-type: none;
+  color: gray;
+}
+
+.link-description {
+  text-decoration: none;
+  color: gray;
+}
+
+.link-description:hover {
+  text-decoration: underline;
+}
+
+/* https://i.pinimg.com/originals/32/a6/18/32a61835ceb7846f6dedc6729b632860.jpg */
